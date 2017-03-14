@@ -1,0 +1,61 @@
+body {
+    background-color: dimgray;
+    font-family: "Arial Narrow";
+    font-size: 14px;
+    width: 100%;
+    min-width: 50%;
+    max-width: 100%;
+}
+
+section {
+    width: 50%;
+    min-width: 50%;
+    height: 330px;
+    border: 3px solid white;
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    box-shadow: 14px 12px 5px black;
+}
+
+section form {
+    background-color: crimson;
+    width: 80%;
+    min-width: 50%;
+    height: 250px;
+    border: 10px solid yellow;
+    margin: 0 auto;
+    margin-top: 5%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    white-space: pre-line;
+    box-shadow: 14px 12px 5px black;
+}
+
+#v_user_css {
+    display: inline-block;
+    width: 95%;
+    height: 30px;
+    font-size: 1.5em;
+    margin-left: 2.5%;
+    text-align: center;
+}
+
+#v_password_css {
+    display: inline-block;
+    width: 95%;
+    height: 30px;
+    font-size: 1.5em;
+    margin-left: 2.5%;
+    text-align: center;
+}
+
+#btne {
+    width: 98%;
+    height: 30px;
+    font-size: 1.5em;
+    margin-left: 1%;
+}
